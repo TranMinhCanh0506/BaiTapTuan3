@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="demo3.ID.NewsRepository">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAFAAAAAAAAAAAAAAAABAABAAAAAAAA=</HashCode>
+      <FileName>ID\NewsRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="demo3.Models.Acticle">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAgAAQAAAAAA=</HashCode>
+      <FileName>Models\Acticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="demo3.Models.Category">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="demo3.Models.Publisher">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAIAAAAAAAQAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="demo3.Rssfeed.NewsParser">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rssfeed\NewsParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="demo3.Rssfeed.RssReader">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Rssfeed\RssReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="demo3.MainForm">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAACAAAhAQAASAEAACAAAAwAAAAAAAAAAEAAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="demo3.NewsFeedManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAIQAAAIAAAAAAAAAAAAEAAABAAAMAAAAAAA=</HashCode>
+      <FileName>NewsFeedManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="demo3.ID.INewRepository">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ID\INewRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
